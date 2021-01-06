@@ -2,6 +2,8 @@
 
 📫 How to reach me:
 
+🔭 I’m currently working on: [ORGANIZATION](https://github.com/IronhackRedo)
+
 <!--
 **cbar8/cbar8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
