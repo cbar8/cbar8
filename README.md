@@ -3,6 +3,8 @@
 📫 How to reach me:
 
 🔭 I’m currently working on: [ORGANIZATION](https://github.com/IronhackRedo)
+ 
+   You can check out my [LANDING PAGE](https://cbar8.github.io/)
 
 <!--
 **cbar8/cbar8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
